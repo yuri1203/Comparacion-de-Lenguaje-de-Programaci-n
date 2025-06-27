@@ -3,8 +3,7 @@ Comparacion de  Sotfware de Programación
 # Comparativa de lenguaje de programacion: Python, JavaScript y C#
 ## 📝 Resumen.
 *(Un lenguaje de programación es como un puente entre las personas y las máquinas. Es una forma estructurada que usamos para darle instrucciones a una computadora y hacer que realice tareas: desde simples cálculos hasta crear videojuegos, aplicaciones móviles o sistemas que controlan un satélite.
-Cada lenguaje tiene su propio estilo y reglas (como una gramática), y aunque algunos son más cercanos al lenguaje humano que otros, todos buscan lo mismo: que podamos expresar nuestras ideas de forma clara para que una máquina las entienda.
-Al final, programar es una manera creativa de resolver problemas y construir cosas útiles, usando lógica, paciencia y un poco de arte.)*
+Cada lenguaje tiene su propio estilo y reglas (como una gramática), y aunque algunos son más cercanos al lenguaje humano que otros, todos buscan lo mismo: que podamos expresar nuestras ideas de forma clara para que una máquina las entienda. Al final, programar es una manera creativa de resolver problemas y construir cosas útiles, usando lógica, paciencia y un poco de arte.)*
 
 ## 🔑 Palabras clave.
 *(Ejemplo:Aplicaciones,Computadora,Instrucciones,Lenguaje,Programar.)*
@@ -19,7 +18,7 @@ Al final, programar es una manera creativa de resolver problemas y construir cos
 ## 🔍 Desarrollo del análisis Contenido.
 
 ### PYTHON
-- Características generales:Es un lenguaje de programación de alto nivel,claro y fácil de leer. Fue creado en 1991 por Guido van Rossum.
+- Características generales:Es un lenguaje de programación de alto nivel,claro y fácil de leer,Fue creado en 1991 por Guido van Rossum.
 - Fortalezas:Fácil de aprender, ideal para principiantes,Gran comunidad y abundante documentación.
 - Debilidades:Menor velocidad de ejecución frente a lenguajes como C++ o Java,No es el mejor para aplicaciones móviles o videojuegos exigentes.
 
