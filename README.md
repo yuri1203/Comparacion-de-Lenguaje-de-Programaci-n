@@ -37,7 +37,7 @@ Cada lenguaje tiene su propio estilo y reglas (como una gramática), y aunque al
 ## 📊 Cuadro comparativo (lenguajes Programacion).
 
 | Plataforma | Rendimiento | Paradigma | Personalización | Comunidad |
-|------------|---  --------|-----------|-----------------|---------  |
+|------------|-------------|-----------|-----------------|-----------|
 | C#         |     Alto    |  objetos  |   Alta en apps  |Profesional|
 | PYTHON     |    Medio    |   Multi   |     Alta en IA  | Muy amplia| 
 | JavaScript | Alto en web | Funcional |	Muy alta en web|  Masiva   |
